@@ -1,8 +1,10 @@
-programa{
-	funcao inicio(){
+programa
+{
+	funcao inicio()
+{
 	inteiro n
 	
-        escreva("Entre com um numero: ")
+        escreva("Digite um número: ")
         leia(n)
         escreva("Tabuada do ",n)
         escreva("\n 1 X ", n, " = ", n*1)
